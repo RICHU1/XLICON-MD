@@ -10,10 +10,10 @@ global.email = 'xheikhsalman4422@gmail.com'
 global.github = 'https://github.com/salmanytofficial/XLICON-MD'
 global.location = 'Lahore Pak'
 global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '923184070915' 
-global.devs = '923184070915';
-global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
+global.sudo = process.env.SUDO || '919497705819' 
+global.devs = '919497705819';
+global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+919497705819
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/MhAPLWN.jpeg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  '',
